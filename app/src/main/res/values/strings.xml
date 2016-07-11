@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Issue214613</string>
+	<string name="account_name">Test</string>
+	<string name="account_type">com.test.amissue</string>
+</resources>
